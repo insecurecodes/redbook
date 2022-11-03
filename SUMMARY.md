@@ -6,7 +6,6 @@
 
 * [1 Information Gathering](stages-of-ethical-hacking/information-gathering/README.md)
   * [Active Information Gathering](stages-of-ethical-hacking/information-gathering/active-information-gathering/README.md)
-    * [Intro](stages-of-ethical-hacking/information-gathering/active-information-gathering/intro.md)
     * [DNS Zone Transfers](stages-of-ethical-hacking/information-gathering/active-information-gathering/dns-zone-transfers.md)
     * [NMAP](stages-of-ethical-hacking/information-gathering/active-information-gathering/nmap.md)
     * [netdiscover](stages-of-ethical-hacking/information-gathering/active-information-gathering/netdiscover.md)
