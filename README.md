@@ -1,8 +1,18 @@
-# The Red Book
+---
+description: Embrace your dark side ...
+---
 
-The digital book, can be found [here](https://insecurecodes.notion.site/insecurecodes/The-Red-Book-2b250f38af1e4adb99ae72fec7d2646a).
+# 📕 The Red Book
 
-- [Information Gathering](https://insecurecodes.notion.site/Information-Gathering-Reconnaissance-02cc7b82e1e04a3b92576b751634d7d4)
-  - [Passive Information Gathering](https://insecurecodes.notion.site/Passive-Information-Gathering-904651c68d69493b87f4c1b6b9c9a7fa)
-    - [Website Recon & Footprinting](https://insecurecodes.notion.site/Website-Recon-Footprinting-3d2e81ab5e3a42f691042699ad80287f)
-    - [Whois Enumeration](https://insecurecodes.notion.site/Whois-Enumeration-4e2ca8fe47fb4258a407fc5e54a561c3)
+🐙 [GitHub](https://github.com/insecurecodes) 🌐[insecure.codes](https://www.insecure.codes/) 🕵️ [About me](https://rtm.codes/)
+
+
+
+### Project mission <a href="#h.3f4tphhd9pn8_l" id="h.3f4tphhd9pn8_l"></a>
+
+_Only by knowing evil can you truly fight it, and here you will learn how._
+
+\
+
+
+\
