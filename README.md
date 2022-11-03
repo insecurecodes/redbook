@@ -15,8 +15,3 @@ _Only by knowing evil can you truly fight it, and here you will learn how._
 
 ***
 
-### Stages of Ethical Hacking
-
-{% content-ref url="group-1/information-gathering/" %}
-[information-gathering](group-1/information-gathering/)
-{% endcontent-ref %}
