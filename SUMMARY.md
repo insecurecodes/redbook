@@ -4,7 +4,7 @@
 
 ## 🦳 Stages of Ethical Hacking
 
-* [Information Gathering](group-1/information-gathering/README.md)
+* [1 Information Gathering](group-1/information-gathering/README.md)
   * [Active Information Gathering](group-1/information-gathering/active-information-gathering.md)
     * [DNS Zone Transfers](stages-of-ethical-hacking/information-gathering/active-information-gathering/dns-zone-transfers.md)
     * [NMAP](stages-of-ethical-hacking/information-gathering/active-information-gathering/nmap.md)
