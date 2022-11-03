@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1541728472741-03e45a58cf88?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwzfHxoYWNraW5nfGVufDB8fHx8MTY2NzQ3MjAyMA&ixlib=rb-4.0.3&q=80
+coverY: 0
+---
+
 # Active Information Gathering
 
 

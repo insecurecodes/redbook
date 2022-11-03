@@ -57,7 +57,7 @@ It allows you to download a World Wide Web site from the Internet to a local dir
 
 
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 
 

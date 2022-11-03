@@ -4,14 +4,14 @@
 
 ## 🦳 Stages of Ethical Hacking
 
-* [Information Gathering](stages-of-ethical-hacking/information-gathering/README.md)
-  * [Active Information Gathering](stages-of-ethical-hacking/information-gathering/active-information-gathering/README.md)
+* [Information Gathering](group-1/information-gathering/README.md)
+  * [Active Information Gathering](group-1/information-gathering/active-information-gathering.md)
     * [DNS Zone Transfers](stages-of-ethical-hacking/information-gathering/active-information-gathering/dns-zone-transfers.md)
     * [NMAP](stages-of-ethical-hacking/information-gathering/active-information-gathering/nmap.md)
     * [netdiscover](stages-of-ethical-hacking/information-gathering/active-information-gathering/netdiscover.md)
     * [fping](stages-of-ethical-hacking/information-gathering/active-information-gathering/fping.md)
-  * [Passive Information Gathering](stages-of-ethical-hacking/information-gathering/passive-information-gathering/README.md)
-    * [Website Recon & Footprinting](stages-of-ethical-hacking/information-gathering/passive-information-gathering/website-recon-and-footprinting.md)
+  * [Passive Information Gathering](group-1/information-gathering/passive-information-gathering/README.md)
+    * [Website Recon & Footprinting](group-1/information-gathering/passive-information-gathering/website-recon-and-footprinting.md)
     * [Whois Enumeration](stages-of-ethical-hacking/information-gathering/passive-information-gathering/whois-enumeration.md)
     * [Netcraft](stages-of-ethical-hacking/information-gathering/passive-information-gathering/netcraft.md)
     * [⭐ DNS](stages-of-ethical-hacking/information-gathering/passive-information-gathering/dns.md)

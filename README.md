@@ -1,5 +1,8 @@
 ---
 description: Embrace your dark side ...
+cover: >-
+  https://images.unsplash.com/photo-1542831371-29b0f74f9713?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw1fHxoYWNraW5nfGVufDB8fHx8MTY2NzQ3MjAyMA&ixlib=rb-4.0.3&q=80
+coverY: 0
 ---
 
 # 📕 The Red Book
