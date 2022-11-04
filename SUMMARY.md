@@ -22,3 +22,6 @@
     * [Email gathering](stages-of-ethical-hacking/information-gathering/passive-information-gathering/email-gathering.md)
     * [Leaked Password Databases](stages-of-ethical-hacking/information-gathering/passive-information-gathering/leaked-password-databases.md)
     * [Certificates](stages-of-ethical-hacking/information-gathering/passive-information-gathering/certificates.md)
+* [2 Enumaration](stages-of-ethical-hacking/enumaration/README.md)
+  * [SMB](stages-of-ethical-hacking/enumaration/smb/README.md)
+    * [Windows discover & Mount](stages-of-ethical-hacking/enumaration/smb/windows-discover-and-mount.md)
