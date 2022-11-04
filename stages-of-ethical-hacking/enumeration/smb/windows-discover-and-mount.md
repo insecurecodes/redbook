@@ -12,7 +12,7 @@ description: Default port of SMB 139 and 445
 nmap -T4 $IP_RANGE/24 --open
 ```
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 * After the servers with **SMB** services were discovered, run a more deep and detailed scan
 
