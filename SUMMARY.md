@@ -25,3 +25,4 @@
 * [2 Enumeration](stages-of-ethical-hacking/enumeration/README.md)
   * [SMB](stages-of-ethical-hacking/enumeration/smb/README.md)
     * [Windows discover & Mount](stages-of-ethical-hacking/enumeration/smb/windows-discover-and-mount.md)
+    * [NMAP Scripts](stages-of-ethical-hacking/enumeration/smb/nmap-scripts.md)
