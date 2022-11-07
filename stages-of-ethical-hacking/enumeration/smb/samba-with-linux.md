@@ -19,7 +19,63 @@ nmap $IP -p 445 --script smb-os-discovery
 
 ## Metasploit way
 
-
+### smb version
 
 ```bash
+msfconsole
+use auxiliary/scanner/smb/smb_version
+set rhosts $IP
+run
+```
+
+### shares
+
+```bash
+msfconsole
+use auxiliary/scanner/smb/smb_enumshares
+set rhosts $IP
+run
+```
+
+## nmblookup
+
+```shell
+nmblookup -A $IP
+
+```
+
+## rpcclient
+
+```bash
+rpcclient -U "" -N $IP
+
+srvinfo
+
+enumdomusers
+
+lookupnames admin
+```
+
+## enum4linux
+
+```bash
+# get OS
+enum4linux -o $IP
+
+# get users
+enum4linux -U $IP
+
+# get sharelist
+enum4linux -S $IP
+
+```
+
+## # smbclient
+
+To connect to smb shares
+
+```bash
+nmbclient -L $IP -N 
+
+nmbclient //$IP/Public -N 
 ```
