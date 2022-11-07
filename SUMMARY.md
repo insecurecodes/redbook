@@ -28,3 +28,4 @@
     * [NMAP Scripts](stages-of-ethical-hacking/enumeration/smb/nmap-scripts.md)
     * [SMBMap](stages-of-ethical-hacking/enumeration/smb/smbmap.md)
     * [Samba with Linux](stages-of-ethical-hacking/enumeration/smb/samba-with-linux.md)
+    * [Dictionary Attack](stages-of-ethical-hacking/enumeration/smb/dictionary-attack.md)
