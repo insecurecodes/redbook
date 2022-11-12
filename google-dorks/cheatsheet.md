@@ -1,16 +1,4 @@
-# Google Dorks / Google Hacking
-
-Google hacking, also named Google Dorking, is a hacker technique that uses Google Search and other Google applications to find security holes in the configuration and computer code that websites are using.
-
-## Useful links
-
-* [Exploit-DB](https://www.exploit-db.com/google-hacking-database)
-* [Cheat sheet](https://hackr.io/blog/google-dorks-cheat-sheet)
-* [https://github.com/opsdisk/pagodo](https://github.com/opsdisk/pagodo)
-* [https://github.com/BullsEye0/google\_dork\_list](https://github.com/BullsEye0/google\_dork\_list)
-* [https://github.com/BullsEye0/dorks-eye](https://github.com/BullsEye0/dorks-eye)
-
-## Usage
+# Cheatsheet
 
 ### **Google dork** [**cheatsheet**](https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06)
 
@@ -34,38 +22,7 @@ Google hacking, also named Google Dorking, is a hacker technique that uses Googl
 | related                                 | List web pages that are “similar” to a specified web page.                                        | related:www.google.com                              |
 | cache                                   | Shows the version of the web page that Google has in its cache.                                   | cache:www.google.com                                |
 
-#### **Examples**
-
-```
-intext:"index of /"
-Nina Simone intitle:”index.of” “parent directory” “size” “last modified” “description” I Put A Spell On You (mp4|mp3|avi|flac|aac|ape|ogg) -inurl:(jsp|php|html|aspx|htm|cf|shtml|lyrics-realm|mp3-collection) -site:.info
-Bill Gates intitle:”index.of” “parent directory” “size” “last modified” “description” Microsoft (pdf|txt|epub|doc|docx) -inurl:(jsp|php|html|aspx|htm|cf|shtml|ebooks|ebook) -site:.info
-parent directory DVDRip -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
-parent directory MP3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
-parent directory Name of Singer or album -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
-filetype:config inurl:web.config inurl:ftp
-“Windows XP Professional” 94FBR
-ext:(doc | pdf | xls | txt | ps | rtf | odt | sxw | psw | ppt | pps | xml) (intext:confidential salary | intext:"budget approved") inurl:confidential
-ext:(doc | pdf | xls | txt | ps | rtf | odt | sxw | psw | ppt | pps | xml) (intext:confidential salary | intext:”budget approved”) inurl:confidential
-```
-
-```markdown
-- subdomains
-
-site:*ine.com
-
-- admin pages
-
-site:*ine.com intitle:admin
-
-- pdf
-
-site:*ine.com filetype:pdf
-
-- index of
-
-intitle:index of
-```
+#### ****
 
 #### **Operators**
 
@@ -127,15 +84,3 @@ Putting an asterisk in a search tells Google ‘I don’t know what goes here’
 ```
 site:*.com
 ```
-
-## Extra
-
-### GitHub
-
-[Advanted search](https://github.com/search/advanced)
-
-* Examples
-
-[Find AWS Keys](https://github.com/search?p=1\&q=remove+aws+key\&type=Commits)
-
-[Find envs](https://github.com/search?q=remove+env\&type=Commits)

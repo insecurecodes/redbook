@@ -17,7 +17,6 @@
     * [⭐ DNS](stages-of-ethical-hacking/information-gathering/passive-information-gathering/dns.md)
     * [Identify if site is protected by firewall or proxy - wafw00f](stages-of-ethical-hacking/information-gathering/passive-information-gathering/identify-if-site-is-protected-by-firewall-or-proxy-wafw00f.md)
     * [Subdomain Enumeration - Sublist3r](stages-of-ethical-hacking/information-gathering/passive-information-gathering/subdomain-enumeration-sublist3r.md)
-    * [Google Dorks / Google Hacking](stages-of-ethical-hacking/information-gathering/passive-information-gathering/google-dorks-google-hacking.md)
     * [❌ theHarvester (borked)](stages-of-ethical-hacking/information-gathering/passive-information-gathering/theharvester-borked.md)
     * [Email gathering](stages-of-ethical-hacking/information-gathering/passive-information-gathering/email-gathering.md)
     * [Leaked Password Databases](stages-of-ethical-hacking/information-gathering/passive-information-gathering/leaked-password-databases.md)
@@ -29,3 +28,11 @@
     * [SMBMap](stages-of-ethical-hacking/enumeration/smb/smbmap.md)
     * [Samba with Linux](stages-of-ethical-hacking/enumeration/smb/samba-with-linux.md)
     * [Dictionary Attack](stages-of-ethical-hacking/enumeration/smb/dictionary-attack.md)
+  * [FTP](stages-of-ethical-hacking/enumeration/ftp.md)
+
+## 🥽 Google Dorks
+
+* [Init](google-dorks/init.md)
+* [Cheatsheet](google-dorks/cheatsheet.md)
+* [Examples](google-dorks/examples.md)
+* [Extra](google-dorks/extra.md)
