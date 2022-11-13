@@ -29,6 +29,7 @@
     * [Samba with Linux](stages-of-ethical-hacking/enumeration/smb/samba-with-linux.md)
     * [Dictionary Attack](stages-of-ethical-hacking/enumeration/smb/dictionary-attack.md)
   * [FTP](stages-of-ethical-hacking/enumeration/ftp.md)
+  * [SSH](stages-of-ethical-hacking/enumeration/ssh.md)
 
 ## 🥽 Google Dorks
 
