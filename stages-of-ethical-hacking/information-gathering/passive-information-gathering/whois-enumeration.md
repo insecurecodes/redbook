@@ -31,4 +31,4 @@ Name Server: watson.ns.cloudflare.com
 
 * [who.is](https://who.is/)
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
