@@ -33,6 +33,7 @@
   * [HTTP](stages-of-ethical-hacking/enumeration/http/README.md)
     * [IIS](stages-of-ethical-hacking/enumeration/http/iis.md)
     * [Apache](stages-of-ethical-hacking/enumeration/http/apache.md)
+  * [SQL](stages-of-ethical-hacking/enumeration/sql.md)
 
 ## 🥽 Google Dorks
 
