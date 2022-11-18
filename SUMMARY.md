@@ -4,7 +4,7 @@
 
 ## 🦳 Stages of Ethical Hacking
 
-* [1 Information Gathering](stages-of-ethical-hacking/information-gathering/README.md)
+* [1⃣ Information Gathering](stages-of-ethical-hacking/information-gathering/README.md)
   * [Active Information Gathering](stages-of-ethical-hacking/information-gathering/active-information-gathering/README.md)
     * [DNS Zone Transfers](stages-of-ethical-hacking/information-gathering/active-information-gathering/dns-zone-transfers.md)
     * [NMAP](stages-of-ethical-hacking/information-gathering/active-information-gathering/nmap.md)
@@ -21,7 +21,7 @@
     * [Email gathering](stages-of-ethical-hacking/information-gathering/passive-information-gathering/email-gathering.md)
     * [Leaked Password Databases](stages-of-ethical-hacking/information-gathering/passive-information-gathering/leaked-password-databases.md)
     * [Certificates](stages-of-ethical-hacking/information-gathering/passive-information-gathering/certificates.md)
-* [2 Enumeration](stages-of-ethical-hacking/enumeration/README.md)
+* [2⃣ Enumeration](stages-of-ethical-hacking/enumeration/README.md)
   * [SMB](stages-of-ethical-hacking/enumeration/smb/README.md)
     * [Windows discover & Mount](stages-of-ethical-hacking/enumeration/smb/windows-discover-and-mount.md)
     * [NMAP Scripts](stages-of-ethical-hacking/enumeration/smb/nmap-scripts.md)
@@ -34,6 +34,7 @@
     * [IIS](stages-of-ethical-hacking/enumeration/http/iis.md)
     * [Apache](stages-of-ethical-hacking/enumeration/http/apache.md)
   * [SQL](stages-of-ethical-hacking/enumeration/sql.md)
+* [3⃣ Vulnerability Assessment](stages-of-ethical-hacking/vulnerability-assessment.md)
 
 ## 🥽 Google Dorks
 
