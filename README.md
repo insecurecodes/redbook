@@ -24,3 +24,7 @@ _Only by knowing evil can you truly fight it_
 {% content-ref url="stages-of-ethical-hacking/enumeration/" %}
 [enumeration](stages-of-ethical-hacking/enumeration/)
 {% endcontent-ref %}
+
+{% content-ref url="stages-of-ethical-hacking/vulnerability-assessment.md" %}
+[vulnerability-assessment.md](stages-of-ethical-hacking/vulnerability-assessment.md)
+{% endcontent-ref %}
