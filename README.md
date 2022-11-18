@@ -14,17 +14,3 @@ coverY: 0
 _Only by knowing evil can you truly fight against it_ :imp:__
 
 ***
-
-## Stages of Ethical Hacking
-
-{% content-ref url="stages-of-ethical-hacking/information-gathering/" %}
-[information-gathering](stages-of-ethical-hacking/information-gathering/)
-{% endcontent-ref %}
-
-{% content-ref url="stages-of-ethical-hacking/enumeration/" %}
-[enumeration](stages-of-ethical-hacking/enumeration/)
-{% endcontent-ref %}
-
-{% content-ref url="stages-of-ethical-hacking/vulnerability-assessment.md" %}
-[vulnerability-assessment.md](stages-of-ethical-hacking/vulnerability-assessment.md)
-{% endcontent-ref %}

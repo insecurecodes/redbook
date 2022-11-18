@@ -36,9 +36,9 @@
   * [SQL](stages-of-ethical-hacking/enumeration/sql.md)
 * [3⃣ Vulnerability Assessment](stages-of-ethical-hacking/vulnerability-assessment.md)
 
-## 🥽 Google Dorks
+## 🥽 Dorks
 
-* [Init](google-dorks/init.md)
-* [Cheatsheet](google-dorks/cheatsheet.md)
-* [Examples](google-dorks/examples.md)
-* [Extra](google-dorks/extra.md)
+* [Google](dorks/google/README.md)
+  * [Cheatsheet](dorks/google/cheatsheet.md)
+  * [Examples](dorks/google/examples.md)
+* [Extra](dorks/extra.md)

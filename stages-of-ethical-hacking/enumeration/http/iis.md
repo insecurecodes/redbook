@@ -1,8 +1,7 @@
 ---
 description: >-
   Internet Information Services (IIS) for Windows® Server is a flexible, secure
-  and manageable Web server for hosting anything on the Web. From media
-  streaming to web applications, IIS's scalable and op
+  and manageable Web server for hosting anything on the Web.
 ---
 
 # IIS
