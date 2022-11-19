@@ -12,4 +12,4 @@ Netdiscover uses the OUI table to show the vendor of the each MAC address discov
 sudo netdiscover -i eth0 -r 10.0.2.0/24
 ```
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>

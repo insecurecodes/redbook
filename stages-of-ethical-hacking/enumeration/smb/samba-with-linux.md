@@ -16,7 +16,7 @@ nmap $IP -sU --top-port 25 --open
 nmap $IP -p 445 --script smb-os-discovery
 ```
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Metasploit way
 

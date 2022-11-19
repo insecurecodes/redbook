@@ -17,10 +17,9 @@ run
 
 ```bash
 hydra -l admin -P /usr/share/wordlists/rockyou.txt $IP smb
-
 ```
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## SMB pipes
 

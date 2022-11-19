@@ -25,7 +25,7 @@ hydra -L /usr/share/metasploit-framework/data/wordlists/unix_users.txt -P /usr/s
 ```
 {% endcode %}
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 ### Bruteforce with Nmap
 
@@ -41,4 +41,4 @@ nmap $IP --script ftp-brute --script-args userdb=/path/to/users -p 21
 nmap $IP --script ftp-anon
 ```
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
