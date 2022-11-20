@@ -9,6 +9,11 @@
     * [DNS Zone Transfers](stages-of-ethical-hacking/information-gathering/active-information-gathering/dns-zone-transfers.md)
     * [NMAP](stages-of-ethical-hacking/information-gathering/active-information-gathering/nmap.md)
     * [netdiscover](stages-of-ethical-hacking/information-gathering/active-information-gathering/netdiscover.md)
+    * [sqlMap](stages-of-ethical-hacking/information-gathering/active-information-gathering/sqlmap.md)
+    * [Nikto](stages-of-ethical-hacking/information-gathering/active-information-gathering/nikto.md)
+    * [Shodan](stages-of-ethical-hacking/information-gathering/active-information-gathering/shodan.md)
+    * [RustScan](stages-of-ethical-hacking/information-gathering/active-information-gathering/rustscan.md)
+    * [Amass](stages-of-ethical-hacking/information-gathering/active-information-gathering/amass.md)
     * [fping](stages-of-ethical-hacking/information-gathering/active-information-gathering/fping.md)
   * [Passive Information Gathering](stages-of-ethical-hacking/information-gathering/passive-information-gathering/README.md)
     * [Website Recon & Footprinting](stages-of-ethical-hacking/information-gathering/passive-information-gathering/website-recon-and-footprinting.md)
@@ -43,3 +48,18 @@
   * [Cheatsheet](dorks/google/cheatsheet.md)
   * [Examples](dorks/google/examples.md)
 * [Extra](dorks/extra.md)
+
+## 🎣 Phishing
+
+* [Gophish](phishing/gophish.md)
+* [evilgophish](phishing/evilgophish.md)
+* [King Phisher](phishing/king-phisher.md)
+* [EvilURL](phishing/evilurl.md)
+
+## 🔎 OSINT
+
+* [Temporary links](osint/temporary-links.md)
+
+## 👾 Data exfiltration
+
+* [Temporary links](data-exfiltration/temporary-links.md)
