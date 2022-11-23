@@ -37,6 +37,9 @@ rustscan -a $DOMAIN -p 443
 # Multiple ports
 rustscan -a $DOMAIN -p 443,80,3306,9000,8080
 
+# External list of hosts
+rustscan -a 'hosts.txt'
+
 # Range of ports
 rustscan -a $DOMAIN --range 1-1000
 
