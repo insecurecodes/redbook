@@ -42,6 +42,11 @@
 * [3⃣ Vulnerability Assessment](stages-of-ethical-hacking/vulnerability-assessment/README.md)
   * [Nessus](stages-of-ethical-hacking/vulnerability-assessment/nessus.md)
 
+## 💾 System/Host Based Attacks
+
+* [🪟 Windows](system-host-based-attacks/windows.md)
+* [🐧 Linux](system-host-based-attacks/linux.md)
+
 ## 🥽 Dorks
 
 * [Google](dorks/google/README.md)
@@ -66,4 +71,4 @@
 
 ## 🐝 OWASP
 
-* [Page 1](owasp/page-1.md)
+* [Top10](owasp/top10.md)
