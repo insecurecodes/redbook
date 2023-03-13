@@ -41,4 +41,4 @@ nmap $IP --script ftp-brute --script-args userdb=/path/to/users -p 21
 nmap $IP --script ftp-anon
 ```
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>

@@ -6,7 +6,7 @@
 
 [crt.sh | Certificate Search](https://crt.sh/)
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Search with wildcard
 
