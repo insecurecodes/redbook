@@ -12,7 +12,7 @@ coverY: -22.925373134328254
 
 ### Project mission <a href="#h.3f4tphhd9pn8_l" id="h.3f4tphhd9pn8_l"></a>
 
-_Only by knowing evil can you truly fight against it_ :imp:__
+_Only by knowing evil can you truly fight against it_ :imp:
 
 #### Other Projects
 
